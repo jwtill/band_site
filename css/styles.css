@@ -1,0 +1,22 @@
+.sidebar {
+  float:left;
+  width:100px;
+  background-color: hotpink; 
+  padding: 10px;
+}
+
+.main {
+  width: 600px;
+  padding-left: 10px;
+  margin-left: 10px;
+  border-width: 10px;
+  border-color:indigo;
+}
+
+.logo {
+  float: none;
+}
+
+img {
+  float:right;
+}
