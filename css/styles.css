@@ -1,8 +1,13 @@
 .sidebar {
+  box-sizing: border-box;
   float:left;
-  width:100px;
+  width:150px;
+  border-width: 100px 25px 100px 25px;
+  border-style: dashed;
+  border-color: black;
   background-color: hotpink; 
   padding: 10px;
+  margin: 25px;
 }
 
 .main {
@@ -19,4 +24,8 @@
 
 img {
   float:right;
+}
+
+.bandphot{
+  float: none;
 }
